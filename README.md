@@ -2,8 +2,8 @@
 
  I am a tech enthusiast & full stack web developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-sfkse-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sefa-köse/)](https://www.linkedin.com/in/sefa-köse/)
-[![Gmail Badge](https://img.shields.io/badge/-sfkse5591@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sfkse5591@gmail.com)](mailto:sfkse5591@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-hansakose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hansa-k%C3%B6se/](https://www.linkedin.com/in/hansa-k%C3%B6se/)
+[![Gmail Badge](https://img.shields.io/badge/-hansacelikkose@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hansacelikkose@gmail.com)](mailto:hansacelikkose@gmail.com)
 
 ## ⚡ Technologies
 
@@ -18,7 +18,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=sfkse&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfkse&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=hansakose&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansakose&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sfkse.sfkse)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=hansakose.hansakose)
