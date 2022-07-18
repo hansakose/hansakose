@@ -2,7 +2,7 @@
 
  I am a tech enthusiast & full stack web developer. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-hansakose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hansa-k%C3%B6se/](https://www.linkedin.com/in/hansa-k%C3%B6se/)
+[![Linkedin Badge](https://img.shields.io/badge/-hansakose-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hansa-köse/)](https://www.linkedin.com/in/hansa-köse/)
 [![Gmail Badge](https://img.shields.io/badge/-hansacelikkose@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hansacelikkose@gmail.com)](mailto:hansacelikkose@gmail.com)
 
 ## ⚡ Technologies
